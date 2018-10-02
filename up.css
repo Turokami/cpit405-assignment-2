@@ -1,0 +1,44 @@
+h2 {
+    padding-left: 50px;
+    padding-right: 50px;
+	
+
+}
+
+#frame{
+  margin: 50px auto;
+  padding: 100px 200px 300px 200px;
+  width: 350px;
+  background-color: white;
+  border-radius: 15px 15px 15px 15px;
+  text-align:center;
+}
+
+body {
+  background-color: #f0f0f0;
+  margin: 0;
+  font-family: 'Niramit', sans-serif;
+}
+
+input[type=text]{
+    width: 100%;
+    padding: 12px 20px ;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+
+	
+
+}
+
+input[name=Description]{
+
+
+	height:50px;
+	padding: 12px 20px 70px;
+
+}
+
+	
